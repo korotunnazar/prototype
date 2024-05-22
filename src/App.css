@@ -1,3 +1,12 @@
+body {
+
+  background-color: #282c34;
+
+  p h2 {
+    color: aliceblue !important;
+  }
+}
+
 .App {
   text-align: center;
 }
